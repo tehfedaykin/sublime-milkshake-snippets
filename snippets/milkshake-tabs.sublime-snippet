@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<milkshake-tabs>
+	<tab tabTitle="${1:Tab 1}">
+	  ${2:Tab 1 content}
+	</tab>
+	<tab tabTitle="${3:Tab 2}">
+	  ${4:Tab 2 content}
+	</tab>
+</milkshake-tabs>
+]]></content>
+	<tabTrigger>milkshake</tabTrigger>
+	<scope>text.html</scope>
+	<description>Creates milkshake tab component</description>
+</snippet>

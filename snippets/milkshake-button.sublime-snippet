@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<milkshake-button text="$1"></milkshake-button>
+]]></content>
+	<tabTrigger>milkshake</tabTrigger>
+	<scope>text.html</scope>
+	<description>Creates milkshake button component</description>
+</snippet>

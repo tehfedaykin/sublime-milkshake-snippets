@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+this.${1:isSparkling} = true;
+setTimeout(() => {
+this.${1:isSparkling} = false;
+}, 350);
+]]></content>
+	<tabTrigger>milkshake</tabTrigger>
+	<description>Creates milkshake isSparkle member setting &amp; timeout</description>
+</snippet>

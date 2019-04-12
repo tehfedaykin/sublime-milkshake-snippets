@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<milkshake-input formInputName="$1" placeholderText="$2"></milkshake-input>
+]]></content>
+	<tabTrigger>milkshake</tabTrigger>
+	<scope>text.html</scope>
+	<description>Creates milkshake input component</description>
+</snippet>
